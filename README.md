@@ -15,3 +15,7 @@ Being a lover of everything about fashion and beauty, there are three website i 
 
 After discusing this sites with my peers, i have decided to base my data collection project on boohoo.com website. The products on this website displays all the useful information that when collected could be used to provide business value.
 
+## Step 2: Scraping
+
+I have crated a class and some  methods to navigate the website. Sellenium and Request and request is being imported to scrape the website.
+Before being able to access the website, accept cookies iframe appeared. Which was clicked immediately from the initializer to be able to access the data.
