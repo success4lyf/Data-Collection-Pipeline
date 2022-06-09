@@ -19,3 +19,4 @@ After discusing this sites with my peers, i have decided to base my data collect
 
 In this step, Sellenium and Request is being imported to scrape the website and a scraper class was created which contains all the methods used to scrape data from the website and get the required data. Before being able to access the website, accept cookies iframe appeared. Which was clicked immediately from the initializer to be able to access the data.
 
+A unique id was generated using the uuid4 version.
