@@ -17,5 +17,5 @@ After discusing this sites with my peers, i have decided to base my data collect
 
 ## Step 2: Scraping
 
-I have defined a class and some  methods to navigate the website. Sellenium and Request is being imported to scrape the website.
-Before being able to access the website, accept cookies iframe appeared. Which was clicked immediately from the initializer to be able to access the data.
+In this step, Sellenium and Request is being imported to scrape the website and a scraper class was created which contains all the methods used to scrape data from the website and get the required data. Before being able to access the website, accept cookies iframe appeared. Which was clicked immediately from the initializer to be able to access the data.
+
