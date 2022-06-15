@@ -13,7 +13,7 @@ Being a lover of everything about fashion and beauty, there are three website i 
 2. https://www.boohoo.com
 3. https://www.prettylittlething.com
 
-After discusing this sites with my peers, i have decided to base my data collection project on boohoo.com website. The products on this website displays all the useful information that when collected could be used to provide business value.
+I have decided to base this data collection project on boohoo.com website. The products on this website displays all the useful information that when collected could be used to provide business value.
 
 ## Step 2: Scraping
 
