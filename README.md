@@ -21,4 +21,4 @@ In this step, Sellenium and Request is being imported to scrape the website and 
 
 ## Step 3: Retrieving and Storing Data
 
-A unique id for each product was generated using the uuid4 version, all the scraped data was stored in a dictionary.
+
