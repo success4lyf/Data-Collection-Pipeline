@@ -21,4 +21,4 @@ In this step, Sellenium and Request is being imported to scrape the website and 
 
 ## Step 3: Retrieving and Storing Data
 
-
+some piece of information was extracted from this website.
