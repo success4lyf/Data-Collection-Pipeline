@@ -11,3 +11,7 @@ Being a lover of everything about fashion and beauty, there are three website i 
 1. https://www.cultbeauty.co.uk
 2. https://www.boohoo.com
 3. https://www.prettylittlething.com
+
+## Step 2: Scraping
+
+In this step, Sellenium and Request is being imported to scrape the website and a scraper class was created which contains all the methods used to scrape data from the website and get the required data. Before being able to access the website, accept cookies iframe appeared. Which was clicked immediately from the initializer to be able to access the data.
