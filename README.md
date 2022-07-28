@@ -15,3 +15,9 @@ Being a lover of everything about fashion and beauty, there are three website i 
 ## Step 2: Scraping
 
 In this step, Sellenium and Request is being imported to scrape the website and a scraper class was created which contains all the methods used to scrape data from the website and get the required data. Before being able to access the website, accept cookies iframe appeared. Which was clicked immediately from the initializer to be able to access the data.
+
+## Step 3: Retrieving and Storing Data
+
+some piece of information was extracted from this website and stored in a dictionary. Scraped images
+
+## Step 4: Testing
